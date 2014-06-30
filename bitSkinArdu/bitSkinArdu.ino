@@ -82,5 +82,5 @@ void updateEncoder(){
   lastEncoded = encoded; //store this value for next time
 }
 
-// here you can find more informations about work on rotary encoderhttp://bildr.org/2012/08/rotary-encoder-arduino/
+// here you can find more informations about rotary encoder http://bildr.org/2012/08/rotary-encoder-arduino/
 // a great work wich is based the reading of the rotary in this work
